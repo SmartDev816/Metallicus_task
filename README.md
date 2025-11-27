@@ -1,7 +1,7 @@
 # Loan Stats Dashboard
 
 A modern Next.js application that displays loan statistics (TVL and APY) with interactive charts and a polished, responsive UI.
-
+https://metallicus-task.vercel.app/
 ## Features
 
 - 📊 **Interactive Charts**: Beautiful TVL and APY charts using ApexCharts
